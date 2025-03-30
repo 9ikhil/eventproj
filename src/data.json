@@ -1,0 +1,51 @@
+ [ 
+    
+ 
+        {
+            "id" : 1,
+            "ques": "What is EventRover",
+            "ans" : "EventRover is a platform dedicated to helping you discover hackathons organized by various colleges. It also offers a unique rewards system where you can earn points for posting events."
+        }
+        ,
+        {
+            "id" : 2,
+            "ques": "How do I find hackathons on EventRover?",
+            "ans" : "Simply visit the homepage and use the search or browse features to find hackathons by college, date, or other criteria."
+        }
+        ,
+        {
+            "id" : 3,
+            "ques": " How can I earn rewards on EventRover?",
+            "ans" : "You can earn rewards by posting hackathon events. Each event you post earns you points that you can later redeem for merchandise or event passes."
+        }
+        ,
+
+        {
+            "id" : 4,
+            "ques": "How do I post a hackathon event?",
+            "ans" : "Log in to your account, navigate to the Post an Event section, and fill in the required details about the hackathon you want to promote."
+        }
+        ,
+        {
+            "id" : 5,
+            "ques": "How do I redeem my earned points?",
+            "ans" : "Go to your profile, find the Redeem Points section, and choose your preferred reward. Follow the instructions to complete the redemption."
+        }
+        ,
+        {
+            "id" : 6,
+            "ques": "Is there a limit to the number of events I can post?",
+            "ans" : "EventRover is a platform dedicated to helping you discover hackathons organized by various colleges. It also offers a unique rewards system where you can earn points for posting events."
+        }
+        ,
+        {
+            "id" : 7,
+            "ques": "How can I contact EventRover support?",
+            "ans" : "If you have any questions or issues, please reach out to us through the 'Contact Us' page, and we'll be happy to assist you."
+        }
+        
+       
+
+    ]
+
+    
